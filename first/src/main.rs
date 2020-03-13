@@ -1,3 +1,4 @@
+// coding at utf-8
 fn main() {
     // Display Hello, world!
     println!("Hello, world!");
